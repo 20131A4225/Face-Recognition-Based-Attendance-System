@@ -1,1 +1,2 @@
 # Face-Recognition-Based-Attendance-System
+The Face Recognition based attendance system includes phases like Database Creation with Haarcascade face detection and model training, Face Recognition for label prediction, and Attendance Updating by writing details to an Excel/CSV file. It offers New Registration, Attendance Taking, and Attendance Checking options with offline accessibility to the attendance data.
